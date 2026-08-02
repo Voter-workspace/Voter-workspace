@@ -1,8 +1,9 @@
 streamlit
-pandas
+firebase-admin
 supabase
+python-dotenv
+pandas
 openpyxl
-python-docx
 pdfplumber
-xlsxwriter
-requests
+pymupdf
+reportlab
